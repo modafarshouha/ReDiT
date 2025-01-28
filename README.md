@@ -1,5 +1,5 @@
 # ReDiT
-[ReDiT: Re‑evaluating large visual question answering model confidence by defining input scenario Difficulty and applying Temperature mapping](https://trebuchet.public.springernature.app/get_content/d37db04d-0d30-4fba-9e61-edc7e190dc0d) <br>
+[ReDiT: Re‑evaluating large visual question answering model confidence by defining input scenario Difficulty and applying Temperature mapping](https://link.springer.com/article/10.1007/s00530-024-01629-w) <br>
 
 ## Acknowledgement
 The visual question answering models (and their weights) are from [Huggingface](https://huggingface.co/).
